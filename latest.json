@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial public release.",
+  "version": "1.0.1",
+  "notes": "Fixed Arena back button, working CPU core control, Steam cover art for newer games, GitHub auto-update. HWID lock applies to key and account login.",
   "mandatory": false,
-  "url": "https://github.com/LovableAdam/nova-boost-releases/releases/download/v1.0.0/NOVA_BOOST.exe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  "url": "https://github.com/LovableAdam/nova-boost-releases/releases/download/v1.0.1/NOVA_BOOST.exe",
+  "sha256": "740b6c69e187190722255f5ecdffe86d25a462d9ee72a8c4e5f73bcb6d6b591e"
 }
